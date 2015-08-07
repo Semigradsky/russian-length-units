@@ -1,0 +1,54 @@
+[
+  {
+    "names": ["tochka", "tochki", "tochek", "точка", "точки", "точек"],
+    "value": 0.000254
+  },
+  {
+    "names": ["liniya", "linii", "liniy", "линия", "линии", "линий"],
+    "value": 0.00254
+  },
+  {
+    "names": ["nogot", "nogtia", "nogtei", "ноготь", "ногтя", "ногтей"],
+    "value": 0.011
+  },
+  {
+    "names": ["perst", "persta", "perstov", "перст", "перста", "перстов"],
+    "value": 0.02
+  },
+  {
+    "names": ["sotka", "sotki", "sotok", "сотка", "сотки", "соток"],
+    "value": 0.021336
+  },
+  {
+    "names": ["dyuim", "dyuima", "dyuimov", "дюйм", "дюйма", "дюймов"],
+    "value": 0.0254
+  },
+  {
+    "names": ["vershok", "vershka", "vershkov", "вершок", "вершка", "вершков"],
+    "value": 0.04445
+  },
+  {
+    "names": ["piad", "piadi", "piadey", "chetvert", "chetverti", "chetvertei", "пядь", "пяди", "пядей", "четверть", "четверти", "четвертей"],
+    "value": 0.1778
+  },
+  {
+    "names": ["fut", "futa", "futov", "фут", "фута", "футов"],
+    "value": 0.3048
+  },
+  {
+    "names": ["arshin", "arshina", "arshinov", "аршин", "аршина", "аршинов"],
+    "value": 0.7112
+  },
+  {
+    "names": ["sazhen", "sazheni", "sazhenei", "sazhnei", "сажень", "сажени", "саженей", "сажней"],
+    "value": 2.1336
+  },
+  {
+    "names": ["versta", "versty", "verst", "верста", "версты", "верст", "вёрст"],
+    "value": 106.68
+  },
+  {
+    "names": ["milia", "mili", "mil", "миля", "мили", "миль"],
+    "value": 7467.6
+  }
+]

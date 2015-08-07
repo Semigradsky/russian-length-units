@@ -1,0 +1,24 @@
+{
+  "name": "russian-length-units",
+  "version": "0.0.0",
+  "description": "Russian length units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semigradsky/russian-length-units.git"
+  },
+  "keywords": [
+    "russian",
+    "length",
+    "units"
+  ],
+  "author": "Dmitry Semigradsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Semigradsky/russian-length-units/issues"
+  },
+  "homepage": "https://github.com/Semigradsky/russian-length-units"
+}
