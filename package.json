@@ -1,6 +1,6 @@
 {
   "name": "russian-length-units",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Russian length units",
   "main": "index.js",
   "scripts": {
